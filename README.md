@@ -4,7 +4,7 @@
 * Output: root (along with ittr)
 :v:
 #####
-![Output]
+![Output](https://github.com/UgrasenaReborn/Numerical-Methods/blob/main/bisection_method/output.jpg)
 
 ####
 =========================================
@@ -12,7 +12,7 @@
 * Output: root (along with ittr)
 :v:
 #####
-![Output]
+![Output](https://github.com/UgrasenaReborn/Numerical-Methods/blob/main/newton%20raphson/output.jpg)
 
 ####
 =========================================
