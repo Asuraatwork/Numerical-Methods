@@ -1,4 +1,3 @@
-#### This is Clg assignment related....
 #### Neumerical_methods_code
 =========================================
 * Bisection method :Input: a and b (provide a range of a and b)
@@ -16,6 +15,9 @@
 ![Output]
 
 ####
-==========================================
-* Gauce-Sidel
+=========================================
+* Newton_rapshon method :Input: Any valid value
+* Output: root (along with ittr)
+:v:
+#####
 ![Output](https://github.com/UgrasenaReborn/Numerical-Methods/blob/main/Gaus-seidel/output.jpg)
