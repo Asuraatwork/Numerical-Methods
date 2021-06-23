@@ -1,4 +1,4 @@
-#### Neumerical_methods_code
+#### Neumerical_methods
 =========================================
 * Bisection method :Input: a and b (provide a range of a and b)
 * Output: root (along with ittr)
